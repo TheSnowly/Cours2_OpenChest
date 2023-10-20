@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/Maps/AlchemistsHouse.umap",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Chest_cover.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Chest_cover6_Blueprint.uasset"
+			]
+		}
+	]
+}
