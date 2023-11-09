@@ -5,16 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/Maps/AlchemistsHouse.umap",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Chest_cover.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Chest_cover6_Blueprint.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/Blueprints/BP_InvisibleFloor.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/Blueprints/BP_Plan.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/Blueprints/BP_Respawn.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/Maps/EscapeRoom.umap",
 				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/Maps/EscapeRoom.umap",
 				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/AlchemistsHouse/Assets/Models/BP_CodeDoor.uasset",
 				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/PlayerTextInput.uasset",
 				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/Door_aperture_2_Blueprint.uasset",
 				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/Blueprints/Implemented/BP_FirstPersonCharacter.uasset",
 				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/Blueprints/BP_InvisibleFloor.uasset",
-				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/Blueprints/BP_Plan.uasset",
-				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/Maps/AlchemistsHouse.umap",
-				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Chest_cover.uasset",
-				"C:/Users/GAME2/Documents/Unreal Projects/ProjectBlueprint/Content/AlchemistsHouse/Assets/Models/Chest_cover6_Blueprint.uasset"
+				"C:/Users/thesn/Documents/UnrealGames/Cours2_OpenChest/Content/Blueprints/BP_Plan.uasset"
 			]
 		}
 	]
